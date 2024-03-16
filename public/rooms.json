@@ -1,0 +1,143 @@
+[
+  {
+    "MealTitle": "Classic Pancakes",
+    "MealType": "Breakfast",
+    "MealImage": "https://i.ibb.co/34YnddC/Classic-Pancakes-4-735x490.jpg",
+    "Ingredients": "Flour, Milk, Eggs, Sugar, Baking Powder, Salt, Butter",
+    "Description": "Fluffy and delicious classic pancakes served with maple syrup and butter.",
+    "Price": 8.99,
+    "Rating": 4.7,
+    "PostTime": "2023-11-24",
+    "Likes": 120,
+    "Reviews": [
+      {
+        "Description": "Best pancakes I've ever had!",
+        "Name": "John Doe"
+      },
+      {
+        "Description": "Good but a bit too sweet for my taste.",
+        "Name": "Jane Smith"
+      }
+    ],
+    "AdminName": "Alice Johnson",
+    "AdminEmail": "alice@example.com"
+  },
+  {
+    "MealTitle": "Grilled Chicken Salad",
+    "MealType": "Lunch",
+    "MealImage": "https://i.ibb.co/p3r7CxN/Asha-Grilled-Chicken-Salad-RECIPE-070523-56498.webp",
+    "Ingredients": "Grilled Chicken, Lettuce, Tomatoes, Cucumbers, Red Onions, Olives, Feta Cheese, Olive Oil, Balsamic Vinegar",
+    "Description": "Healthy and flavorful grilled chicken salad with fresh veggies and feta cheese.",
+    "Price": 12.49,
+    "Rating": 4.5,
+    "PostTime": "2023-11-24",
+    "Likes": 150,
+    "Reviews": [
+      {
+        "Description": "Great salad, very fresh ingredients!",
+        "Name": "David Brown"
+      },
+      {
+        "Description": "Could use more dressing, a bit dry.",
+        "Name": "Emily Wilson"
+      }
+    ],
+    "AdminName": "Benjamin Smith",
+    "AdminEmail": "ben@example.com"
+  },
+  {
+    "MealTitle": "Margherita Pizza",
+    "MealType": "Dinner",
+    "MealImage": "https://i.ibb.co/q7Xfbpj/margherita-pizza-with-argula-and-prosciutto-FT-RECIPE0721-04368ec288a84d2e997573aca0001d98.jpg",
+    "Ingredients": "Pizza dough, Tomato sauce, Fresh mozzarella cheese, Fresh basil leaves, Olive oil"
+    ,
+    "Description": "Classic Margherita pizza topped with tomato sauce, fresh mozzarella, and basil leaves, drizzled with olive oil.",
+    "Price": 12.99,
+    "Rating": 4.7,
+    "PostTime": "2023-11-24",
+    "Likes": 200,
+    "Reviews": [
+      {
+        "Description": "Authentic flavors! The crust was perfect.",
+        "Name": "Sophia Adams"
+      },
+      {
+        "Description": "Good pizza but wished for more cheese.",
+        "Name": "William Johnson"
+      }
+    ],
+    "AdminName": "Emma Wilson",
+    "AdminEmail": "emma@example.com"
+  },
+  {
+    "MealTitle": "Veggie Omelette",
+    "MealType": "Breakfast",
+    "MealImage": "https://i.ibb.co/W0LKGvj/Veggie-Stuffed-Egg-White-Omelet.jpg",
+    "Ingredients": "Eggs, Bell peppers, Onions, Tomatoes, Spinach, Cheese"    ,
+    "Description": "A fluffy omelette filled with bell peppers, onions, tomatoes, spinach, and melted cheese.",
+    "Price": 9.49,
+    "Rating": 4.4,
+    "PostTime": "2023-11-24",
+    "Likes": 180,
+    "Reviews": [
+      {
+        "Description": "Great omelette! Loved the mix of veggies.",
+        "Name": "Oliver Garcia"
+      },
+      {
+        "Description": "Tasty but a bit too oily.",
+        "Name": "Ava Smith"
+      }
+    ],
+    "AdminName": "Lucas Anderson",
+    "AdminEmail": "lucas@example.com"
+  },
+  {
+    "MealTitle": "Grilled Steak",
+    "MealType": "Lunch",
+    "MealImage": "https://i.ibb.co/KGyKRHZ/Mistakes-To-Avoid-When-Grilling-Steak-FT-BLOG0622-2000-9470d6138120449885c7b91524c51cc4.jpg",
+    "Ingredients": "Beef steak, Salt, Pepper, Olive oil, Garlic, Rosemary"
+    ,
+    "Description": "Juicy grilled steak seasoned with salt, pepper, garlic, and rosemary, served with a side of roasted vegetables.",
+    "Price": 21.99,
+    "Rating": 4.9,
+    "PostTime": "2023-11-24",
+    "Likes": 250,
+    "Reviews": [
+      {
+        "Description": "Fantastic steak! Cooked to perfection.",
+        "Name": "Mia Thompson"
+      },
+      {
+        "Description": "Delicious but a bit too salty.",
+        "Name": "Noah Wilson"
+      }
+    ],
+    "AdminName": "Ethan Roberts",
+    "AdminEmail": "ethan@example.com"
+  },
+  {
+    "MealTitle": "Shrimp Pasta",
+    "MealType": "Dinner",
+    "MealImage": "https://i.ibb.co/6PJ2Z8p/cajun-shrimp-pasta-thecozyapron-1.jpg",
+    "Ingredients": "Pasta, Shrimp, Garlic, Tomatoes, Basil, Parmesan cheese"
+    ,
+    "Description": "Delicious pasta with succulent shrimp, garlic, tomatoes, basil, and grated parmesan cheese.",
+    "Price": 16.99,
+    "Rating": 4.6,
+    "PostTime": "2023-11-24",
+    "Likes": 210,
+    "Reviews": [
+      {
+        "Description": "Amazing pasta dish! Loved the flavors.",
+        "Name": "Isabella Clark"
+      },
+      {
+        "Description": "Tasty but a bit too much garlic.",
+        "Name": "Jack Turner"
+      }
+    ],
+    "AdminName": "Sophie White",
+    "AdminEmail": "sophie@example.com"
+  }
+]
